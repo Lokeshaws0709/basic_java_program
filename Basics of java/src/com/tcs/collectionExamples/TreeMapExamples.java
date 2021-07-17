@@ -14,7 +14,6 @@ public class TreeMapExamples {
 		t.put(104, "efg");
 		
 		System.out.println(t);
-		System.out.println(t);
 	}
 
 }
