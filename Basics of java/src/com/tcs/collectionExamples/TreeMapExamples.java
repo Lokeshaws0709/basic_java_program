@@ -1,6 +1,5 @@
 package com.tcs.collectionExamples;
 
-import java.util.Iterator;
 import java.util.TreeMap;
 
 public class TreeMapExamples {
@@ -15,7 +14,7 @@ public class TreeMapExamples {
 		t.put(104, "efg");
 		
 		System.out.println(t);
-		
+		System.out.println(t);
 	}
 
 }
